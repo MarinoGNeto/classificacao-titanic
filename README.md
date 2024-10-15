@@ -72,8 +72,6 @@ O código foi projetado para ser executado em um ambiente como **Google Colab** 
      ```python
      X = trainFile[['Pclass', 'Sex_male', 'Age', 'Fare']]
      y = trainFile['Survived']
-
-     X_test = testFile[['Pclass', 'Sex_male', 'Age', 'Fare']]
      ```
 
 ---
